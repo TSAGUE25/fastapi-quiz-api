@@ -1,4 +1,4 @@
-# Quiz API — FastAPI
+﻿# Quiz API — FastAPI
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -159,8 +159,8 @@ pytest tests/ -v
 
 ---
 
-## Auteur
+## Contributors
 
-**Emmanuel TSAGUE** — Data Scientist / Data Analyst  
+**TSAGUE Emmanuel** — Data Scientist / Data Analyst  
 EDF MAD EDVANCE | Formation Datascientest 2024  
 GitHub : [TSAGUE25](https://github.com/TSAGUE25)
